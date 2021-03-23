@@ -1,1 +1,1 @@
-# web-patika
+# web-patika eğitimleri ile Front-end öğreniyorum
