@@ -1,1 +1,13 @@
-/*deneme deneme denem
+* {
+    margin: 5px;
+    padding: 5px;
+}
+
+.img {
+    width: 300px;
+}
+
+ul li {
+    margin: 1px;
+    padding: 1px;
+}
