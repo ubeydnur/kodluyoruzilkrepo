@@ -1,0 +1,27 @@
+body {
+    background-color: #ffff;
+    margin: 50px;
+}
+
+img {
+    float: none;
+}
+
+section {
+    background-color: gainsboro;
+    text-align: center;
+}
+
+button {
+    margin-top: 3px;
+}
+
+a {
+    display: block;
+}
+
+.container {
+    display: flex;
+    justify-content: space-evenly;
+    background-color: #7EE5DA;
+}
